@@ -1,0 +1,22 @@
+{
+  "wheel_id": 648,
+  "structure": "umbrella",
+  "slug": "mytoowoomba-com-103",
+  "project": "business-directory-toowoomba-before-you-start-b339bef8734478",
+  "parent_t1_ref": "mytoowoomba-com-151",
+  "node_role": "feeder",
+  "money_target": "mytoowoomba.com.au",
+  "primary_kw": "business directory toowoomba before you start",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/business-directory-toowoomba-before-you-start-b339bef8734478/",
+  "tier": "T2",
+  "writeback_nonce": "fbc8b6df4bba46b3",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/business-directory-toowoomba-myths-55f14da7cfe2fe04da153416dafc/",
+      "anchor": "https://sites-e470-2.web.app/business-directory-toowoomba-myths-55f14da7cfe2fe04da153416dafc/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
